@@ -1,5 +1,20 @@
 # @backstage/plugin-api-docs
 
+## 0.10.4-next.0
+
+### Patch Changes
+
+- c03f977: Updated dependency `graphiql` to `3.1.0`.
+- 49b3b5e: Updated dependency `@asyncapi/react-component` to `1.2.13`.
+- Updated dependencies
+  - @backstage/plugin-catalog@1.17.0-next.0
+  - @backstage/plugin-catalog-react@1.9.4-next.0
+  - @backstage/core-components@0.13.10
+  - @backstage/catalog-model@1.4.3
+  - @backstage/core-plugin-api@1.8.2
+  - @backstage/plugin-catalog-common@1.0.20
+  - @backstage/plugin-permission-react@0.4.19
+
 ## 0.10.3
 
 ### Patch Changes
